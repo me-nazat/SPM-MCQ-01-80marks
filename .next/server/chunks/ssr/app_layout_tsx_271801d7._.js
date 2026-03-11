@@ -1,0 +1,3 @@
+module.exports=[33290,a=>{"use strict";var b=a.i(7997);function c({children:a}){return(0,b.jsxs)("html",{lang:"bn",children:[(0,b.jsx)("head",{children:(0,b.jsx)("link",{rel:"stylesheet",href:"https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css",integrity:"sha384-GvrOXuhMATgEsSwCs4smul74iXGOixntILdUW9XmUC6+HX0sLNAK3q71bZlhzY",crossOrigin:"anonymous"})}),(0,b.jsx)("body",{children:a})]})}a.s(["default",()=>c,"metadata",0,{title:"Physics Paper 1 MCQ Exam",description:"Test your preparation with this Physics MCQ exam."}])}];
+
+//# sourceMappingURL=app_layout_tsx_271801d7._.js.map

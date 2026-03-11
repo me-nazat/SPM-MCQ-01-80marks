@@ -8,7 +8,6 @@ import {
 } from "lucide-react";
 import { Question, ExamState } from "../types";
 import { MathText } from "./MathText";
-import html2pdf from "html2pdf.js";
 
 interface ResultScreenProps {
   questions: Question[];
@@ -44,13 +43,15 @@ export const ResultScreen: React.FC<ResultScreenProps> = ({
 
   const score = calculateScore();
 
-  const handleDownload = () => {
+  const handleDownload = async () => {
     if (!resultRef.current) return;
     const element = resultRef.current;
 
     // Temporarily hide the download button for the PDF
     const downloadBtn = document.getElementById("download-btn");
     if (downloadBtn) downloadBtn.style.display = "none";
+
+    const html2pdf = (await import("html2pdf.js")).default;
 
     html2pdf()
       .set({

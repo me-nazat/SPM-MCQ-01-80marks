@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { BookOpen, Clock, ListOrdered, Key } from "lucide-react";
 import { motion } from "motion/react";
-import { client } from "../App";
+import { client } from "../lib/turso";
 
 interface LandingScreenProps {
   onStart: (name: string, date: Date) => void;
