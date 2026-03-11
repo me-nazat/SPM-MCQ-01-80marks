@@ -1,0 +1,2065 @@
+[
+  {
+    "id": 1,
+    "questionText": "কোনো তারের স্থিতিস্থাপক গুণাঙ্ক $11 × 10^{10} Nm^{-2}$ এর দৈর্ঘ্য বরাবর $8.9 × 10^{5} N$ বল প্রয়োগ করায় দৈর্ঘ্য বৃদ্ধি হয় 7% । তারটির প্রস্থচ্ছেদের ক্ষেত্রফল কত?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "120 $mm^{2}$"
+      },
+      {
+        "id": "b",
+        "text": "126 $mm^{2}$"
+      },
+      {
+        "id": "c",
+        "text": "116 $mm^{2}$"
+      },
+      {
+        "id": "d",
+        "text": "106 $mm^{2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "Y = (F/A)/(l/L) => $11 * 10^{10} $= ($8.9 * 10^{5} $/ A) / (7/100) => A = 115.58 $mm^{2}$ ≈ 116 $mm^{2}$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 2,
+    "questionText": "D ব্যাস ও L দৈর্ঘ্যের একটি তার এক প্রান্তে দৃঢ়ভাবে আটকানো আছে । তারটির নিচের প্রান্তে একটি ভর ঝুলানোতে এর দৈর্ঘ্য x পরিমাণ বৃদ্ধি পেল। x, L এর অর্ধেক। Y = $2.0 × 10^{11} Nm^{-2}$ হলে পীড়ন কত?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$0.25 × 10^{11} Nm^{-2}$"
+      },
+      {
+        "id": "b",
+        "text": "$0.5 × 10^{11} Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$1 × 10^{11} Nm^{-2}$"
+      },
+      {
+        "id": "d",
+        "text": "$4 × 10^{11} Nm^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "Y = (F/A)/(x/L) => Y = (F/A)/(1/2) => F/A = 1/2 * $2 * 10^{11} $= $1 * 10^{11} Nm^{-2}$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 3,
+    "questionText": "চিত্রে , পীড়ন ও বিকৃতির মধ্যে OA গ্রাফের ঢাল কি নির্দেশ করে ?",
+    "questionImage": "data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20200%20150%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M%2020%20130%20L%2020%2020%20M%2020%20130%20L%20180%20130%22%20stroke%3D%22black%22%20stroke-width%3D%222%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M%2020%20130%20L%2080%2050%20Q%20120%2020%20160%2040%22%20stroke%3D%22black%22%20stroke-width%3D%222%22%20fill%3D%22none%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%2240%22%20font-family%3D%22sans-serif%22%20font-size%3D%2212%22%3EA%3C%2Ftext%3E%3Ctext%20x%3D%22160%22%20y%3D%2230%22%20font-family%3D%22sans-serif%22%20font-size%3D%2212%22%3EB%3C%2Ftext%3E%3Ctext%20x%3D%225%22%20y%3D%2275%22%20font-family%3D%22sans-serif%22%20font-size%3D%2212%22%20transform%3D%22rotate(-90%205%2C75)%22%3E%E0%A6%AA%E0%A7%80%E0%A7%9C%E0%A6%A8%3C%2Ftext%3E%3Ctext%20x%3D%22100%22%20y%3D%22145%22%20font-family%3D%22sans-serif%22%20font-size%3D%2212%22%3E%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%3C%2Ftext%3E%3Ctext%20x%3D%2210%22%20y%3D%22145%22%20font-family%3D%22sans-serif%22%20font-size%3D%2212%22%3EO%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "options": [
+      {
+        "id": "a",
+        "text": "নতি বিন্দু"
+      },
+      {
+        "id": "b",
+        "text": "ইয়ং গুনা ঙ্"
+      },
+      {
+        "id": "c",
+        "text": "ভরবি ন্দু"
+      },
+      {
+        "id": "d",
+        "text": "স্থায়ী বিকৃতি"
+      }
+    ],
+    "correctOptionId": "b",
+    "explanationText": "OA লেখচিত্রে ইয়ং গুনা ঙ্ক নির্দেশ করে. উত্তর খ\n",
+    "explanationImage": null
+  },
+  {
+    "id": 4,
+    "questionText": "পয়সনের অনুপাতের ক্ষেত্রে কোনটি খাটে না ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "– 0.6"
+      },
+      {
+        "id": "b",
+        "text": "– 0.1"
+      },
+      {
+        "id": "c",
+        "text": "0.1"
+      },
+      {
+        "id": "d",
+        "text": "0.6"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "পয়সনের অনুপাতের সীমাঃ −1 < σ < ½. 0.6 পয়সনের অনুপাতের সীমার মধ্যে পড়ে না । তাই সঠিক উত্তর 0.6\n",
+    "explanationImage": null
+  },
+  {
+    "id": 5,
+    "questionText": "পূর্ণ দৃঢ় বস্তুর ক্ষেত্রে নিচের কোন লেখচিত্রটি সঠিক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "c",
+        "text": "ঘ"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "পূর্ণ দৃঢ় বস্তুর ক্ষেত্রে বিকৃতি প্রায় শূন্য এবং ধ্রুবক। (Graph with vertical line on Y axis)\n",
+    "explanationImage": null
+  },
+  {
+    "id": 6,
+    "questionText": "একটি তারের অসহ পীড়ন ও প্রস্থচ্ছেদের ক্ষেত্রফল যথাক্রমে $4.9 × 10^{8} Pa$ ও 1 $mm^{2}$ ; তারটির দৈর্ঘ্য বরাবর সর্বো চ্চ কত ভর ঝুলা নো যা বে ? [g = 9.8 $ms^{-2}$]",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "49kg"
+      },
+      {
+        "id": "b",
+        "text": "60 kg"
+      },
+      {
+        "id": "c",
+        "text": "50 kg"
+      },
+      {
+        "id": "d",
+        "text": "40 kg"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "P = F/A = mg/A => m = ($4.9 * 10^{8} $* $10^{-6}$) / 9.8 = 50 kg\n",
+    "explanationImage": null
+  },
+  {
+    "id": 7,
+    "questionText": "স্থিতিস্থাপকতা সম্পর্কে বলা হয়, ইহা -\n1. তাপমাত্রার সাথে পরিবর্তন হয় 2. ভেজা লের উপস্থিতিতে পরিবর্তন হয় 3. পদার্থের আকৃতির উপর নির্ভর করে",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "i,ii"
+      },
+      {
+        "id": "b",
+        "text": "i,iii"
+      },
+      {
+        "id": "c",
+        "text": "ii,iii"
+      },
+      {
+        "id": "d",
+        "text": "i,ii,iii"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 8,
+    "questionText": "চিত্রে একটি ধাতব তারের জন্য দৈর্ঘ্য পীড়ন- দৈর্ঘ্য বিকৃতি লেখ দেখানো হলোঃ\nতারটির ইয়ং এর গুনা ঙ্ক কত ?\ny = পীড়ন / বিকৃতি = ($3.6 * 10^{10}$) / 0.2 = $1.8 * 10^{11} Nm^{-2}$",
+    "questionImage": "data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M%2010%2090%20L%2010%2010%20M%2010%2090%20L%2090%2090%22%20stroke%3D%22black%22%20stroke-width%3D%222%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M%2010%2090%20L%2080%2020%22%20stroke%3D%22black%22%20stroke-width%3D%222%22%20fill%3D%22none%22%2F%3E%3C%2Fsvg%3E",
+    "options": [
+      {
+        "id": "a",
+        "text": "$7.2 × 10^{9} Nm^{-2}$"
+      },
+      {
+        "id": "b",
+        "text": "$3.6× 10^{10} Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$4.8× 10^{10} Nm^{-2}$"
+      },
+      {
+        "id": "d",
+        "text": "$1.8 × 10^{11} Nm^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 9,
+    "questionText": "একটি তারের উপা দানের ইয়ং এর গুণাঙ্ক $2 × 10^{11} Nm^{-2}$ । তারটির দৈর্ঘ্য 15% বৃদ্ধি করতে হলে প্রযুক্ত পীড়ন নি র্ণয় কর।",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$3 × 10^{10} Nm^{-2}$"
+      },
+      {
+        "id": "b",
+        "text": "$6 × 10^{11} Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$6 × 10^{-11} Nm^{-2}$"
+      },
+      {
+        "id": "d",
+        "text": "$3 × 10^{-11} Nm^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "পীড়ন = Y * (l/L) = $2 * 10^{11} $* (15/100) = $3 * 10^{10} Nm^{-2}$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 10,
+    "questionText": "স্থিতিস্থাপক সীমার মধ্যে বস্তুর ব্যবৰ্তন পীড়ন ও ব্যবৰ্তন বিকৃতির অনুপাত হচ্ছে -",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "দৃঢ়তার গুণাঙ্"
+      },
+      {
+        "id": "b",
+        "text": "আয়তন গুণাঙ্"
+      },
+      {
+        "id": "c",
+        "text": "ইয়ং এর গুণাঙ্"
+      },
+      {
+        "id": "d",
+        "text": "পয়সনের অনুপাত"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "কৃন্তন বা দৃঢ়তা বা কাঠিন্যের গুণাঙ্ক বলে।\n",
+    "explanationImage": null
+  },
+  {
+    "id": 11,
+    "questionText": "একটি তারের ইয়ং এর গুণাঙ্ক (Y) VS বিকৃতির লেখচিত্র নিচের কোনটি?\nY (Young's Modulus) ধ্রুবক হওয়ায় বিকৃতি বৃদ্ধি করলেও Y পরিবর্তিত হয় না। (Horizontal line)",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "c",
+        "text": "ঘ",
+        "image": "data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M%2010%2090%20L%2010%2010%20M%2010%2090%20L%2090%2090%22%20stroke%3D%22black%22%20stroke-width%3D%222%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M%2010%2050%20L%2080%2050%22%20stroke%3D%22black%22%20stroke-width%3D%222%22%20fill%3D%22none%22%2F%3E%3C%2Fsvg%3E"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 12,
+    "questionText": "একটি বস্তুর দৈর্ঘ্য বিকৃতি $2×10^{-4} $এবং দৈর্ঘ্য পীড়ন $20×10^{6} Nm^{-2}$ হলে বস্তুটির ইয়ং এর গুণাঙ্ক -",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$1×10^{12} Pa$"
+      },
+      {
+        "id": "b",
+        "text": "$1×10^{11} Pa$"
+      },
+      {
+        "id": "c",
+        "text": "$2×10^{10} Pa$"
+      },
+      {
+        "id": "d",
+        "text": "$1×10^{13} Pa$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "Y = ($20 * 10^{6}$) / ($2 * 10^{-4}$) = $1 * 10^{11} Pa$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 13,
+    "questionText": "দুইটি ভিন্ন পদার্থের তৈরি সমান দৈর্ঘ্যের (2m) এবং সমান ব্যাসের (1 mm) দুইটি তার সিরিজে সং যুক্ত আছে । যে পরি মান বল প্রয়োগ করলে এদের সম্মিলিত দৈর্ঘ্য 0.9 mm বৃদ্ধি পাবে তার মান বে র কর। [Y1 =$2× 10^{11} N$/$m^{2}$ ও Y2 =$7× 10^{11} N$/$m^{2}$]\nyeq = (2 * y1 * y2) / (y1 + y2) = $3.11 * 10^{11}$. F = (Yeq * A * l) / L = 54.96 N",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "219.8 N"
+      },
+      {
+        "id": "b",
+        "text": "635.85 N"
+      },
+      {
+        "id": "c",
+        "text": "$2198 × 10^{8} N$"
+      },
+      {
+        "id": "d",
+        "text": "54.96 N"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 14,
+    "questionText": "সমান দৈর্ঘ্যের তিনটি তার A,B,C এ একই মানের পীড়ন $5×10^{12} Nm^{-2}$ প্রয়োগের ফলে দৈর্ঘ্য বৃদ্ধি যথাক্রমে 5%, 2% এবং 1% হলো । A,B এবং C তারের ইয়ং এর গুণাঙ্ক যথাক্রমে YA, YB, YC হলে নিচের কোনটি সঠিক ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "YA>YC>YB"
+      },
+      {
+        "id": "b",
+        "text": "YA<YB<YC"
+      },
+      {
+        "id": "c",
+        "text": "YA>YB>YC"
+      },
+      {
+        "id": "d",
+        "text": "YBAC"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "যার ইয়ং এর গুণাঙ্ক মান বেশি হবে তার দৈর্ঘ্য বৃদ্ধি কম হবে। YA < YB < YC\n",
+    "explanationImage": null
+  },
+  {
+    "id": 15,
+    "questionText": "ইস্পাতের তৈ রী একটি দন্ডের ব্যাস অর্ধেক করে দিলে ইয়ং এর গুণাঙ্কের কি অবস্থা হবে ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "ঠি"
+      },
+      {
+        "id": "a",
+        "text": "অর্ধে"
+      },
+      {
+        "id": "a",
+        "text": "হবে"
+      },
+      {
+        "id": "b",
+        "text": "ঠি"
+      },
+      {
+        "id": "a",
+        "text": "দ্বিগুণ হবে"
+      },
+      {
+        "id": "c",
+        "text": "বা ড়বে তবে ঠি"
+      },
+      {
+        "id": "a",
+        "text": "দ্বিগুণ হবে না"
+      },
+      {
+        "id": "d",
+        "text": "কোন পরিবর্তন হবে না"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "ইয়ংয়ের গুণাঙ্ক একটি ধ্রুবক মান।\n",
+    "explanationImage": null
+  },
+  {
+    "id": 16,
+    "questionText": "নিচের কোন রাশির একক নেই?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "পীড়ন"
+      },
+      {
+        "id": "b",
+        "text": "স্থিতি স্থাপ"
+      },
+      {
+        "id": "a",
+        "text": "গুণাঙ্"
+      },
+      {
+        "id": "c",
+        "text": "বিকৃতি"
+      },
+      {
+        "id": "d",
+        "text": "অসহ ভার"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "বিকৃতির কোনো একক নেই।\n",
+    "explanationImage": null
+  },
+  {
+    "id": 17,
+    "questionText": "একটি ভারের প্রস্থচ্ছেদের ক্ষেত্রফল 2$mm^{2}$ এবং অসহ ভর 100 kg । তারের অসহ পীড়ন—",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$4.9 × 10^{4} Nm^{-2}$"
+      },
+      {
+        "id": "b",
+        "text": "$4.9 × 10^{8} Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$5 × 10^{6} Nm^{-2}$"
+      },
+      {
+        "id": "d",
+        "text": "$5 × 10^{7} Nm^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "F = mg = 980 N. Stress = 980 / ($2 * 10^{-6}$) = $490 * 10^{6} Pa$ = $4.9 * 10^{8} Nm^{-2}$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 18,
+    "questionText": "পানি র আয়তন়তন 0.5% সং কুচিত করতে কত চাপ প্রয়োজন? [Bulk Modulus = 2100 MPa]",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$3.9 × 10^{7} Pa$"
+      },
+      {
+        "id": "b",
+        "text": "$1.05 × 10^{7} Pa$"
+      },
+      {
+        "id": "c",
+        "text": "$2.1 × 10^{7} Pa$"
+      },
+      {
+        "id": "d",
+        "text": "$4.2 × 10^{7} Pa$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "P = B * (v/V) = $2100 * 10^{6} $* (0.5/100) = $1.05 * 10^{7} Pa$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 19,
+    "questionText": "পারদের আয়তন গুণাঙ্ক $2.5 × 10^{10} Nm^{-2}$। এক লিটার পারদের আয়তন $3×10^{-5} m^{3}$ হ্রাস করতে কতটুুুকু কাজ করতে হবে ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$2.25×10^{4} j$"
+      },
+      {
+        "id": "b",
+        "text": "$3.25×10^{4} j$"
+      },
+      {
+        "id": "c",
+        "text": "$1.125×10^{4} j$"
+      },
+      {
+        "id": "d",
+        "text": "$4.5×10^{4} j$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "W = 1/2 * (k * $v^{2}$) / V = 1/2 * ($2.5 * 10^{10} $* ($3 * 10^{-5}$)^{2}) / ($1 * 10^{-3}$) = $1.125 * 10^{4} J$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 20,
+    "questionText": "পয়সনের অনুপাতের সীমা ----",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "−1/2 < σ < 1"
+      },
+      {
+        "id": "b",
+        "text": "−1 ≤ σ ≤ 1/2"
+      },
+      {
+        "id": "c",
+        "text": "1/2 < σ < 1"
+      },
+      {
+        "id": "d",
+        "text": "−1 < σ < 2"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "−1 ≤ σ ≤ 1/2\n",
+    "explanationImage": null
+  },
+  {
+    "id": 21,
+    "questionText": "বস্তুর স্থিতিস্থাপক ধ্রুবকে র মান কিসের উপর নির্ভরশী ল?\nবস্তুর উপাদানের উপর।",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "বস্তুর উপাদান"
+      },
+      {
+        "id": "b",
+        "text": "পীড়ন"
+      },
+      {
+        "id": "c",
+        "text": "বিকৃতি"
+      },
+      {
+        "id": "d",
+        "text": "বল"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 22,
+    "questionText": "একটি তারের দৈর্ঘ্য বিকৃতি 0.02 এবং পার্শ্ব বিকৃতি 0.002 হলে এর পয়সনের অনুপাত কত ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "0.0004"
+      },
+      {
+        "id": "b",
+        "text": "0.00004"
+      },
+      {
+        "id": "c",
+        "text": "0.1"
+      },
+      {
+        "id": "d",
+        "text": "10"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "σ = 0.002 / 0.02 = 0.1\n",
+    "explanationImage": null
+  },
+  {
+    "id": 23,
+    "questionText": "সমান দৈর্ঘ্যের দুটি তারের উপর সমান বল প্রয়োগ করা হল। তারদ্বয়ে র আদি ব্যাস ও দৈর্ঘ্য বৃদ্ধি র অনুপাত যথাক্রমে 1 : 4 এবং 2 : 1 হলে এদের ইয়ং এর গুণাঙ্কের অনুপাত কত?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "1:8"
+      },
+      {
+        "id": "b",
+        "text": "8:1"
+      },
+      {
+        "id": "c",
+        "text": "1:4"
+      },
+      {
+        "id": "d",
+        "text": "4:1"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "Y1/Y2 = (l2/l1) * (A2/A1) = (1/2) * (4/1)^{2} = 8/1\n",
+    "explanationImage": null
+  },
+  {
+    "id": 24,
+    "questionText": "1m দীর্ঘ 1mm ব্যাসের একটি তারের দৈর্ঘ্য 0.05cm বৃদ্ধি করলে তারটির ব্যাস হ্রাস পাবে ---- (পয়সনের অনুপাত, σ = 0.25)",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$1.25 \\times 10^{-7} m$"
+      },
+      {
+        "id": "b",
+        "text": "$1.25 \\times 10^{-7} cm$"
+      },
+      {
+        "id": "c",
+        "text": "$1.25 \\times 10^{7} m$"
+      },
+      {
+        "id": "d",
+        "text": "$1.25 \\times 10^{-7} mm$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "r = 0.25 * ($0.05*10^{-2} $/ 1) * ($0.5*10^{-3}$) = $1.25 * 10^{-7} m$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 25,
+    "questionText": "A ও B দুটি তারের আদি দৈর্ঘ্য ও দৈর্ঘ্য বরাবর বল প্রয়োগে র ফলে দৈর্ঘ্য বৃদ্ধি সমান। A তারের ব্যাস B তারের ব্যাসের দ্বিগুণ। যদি A তারের উপর দ্বিগুণ বল প্রয়োগ করা হয়, তবে B তারের স্থিতিস্থাপক গুণাঙ্ক কত হবে ? [YA = $2 × 10^{11} Nm^{-2}$]",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$6 × 10^{11} Nm^{-2}$"
+      },
+      {
+        "id": "b",
+        "text": "$8 × 10^{11} Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$1 × 10^{11} Nm^{-2}$"
+      },
+      {
+        "id": "d",
+        "text": "$4 × 10^{11} Nm^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "YB = $4 * 10^{11} Nm^{-2}$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 26,
+    "questionText": "কোনো বস্তুর উপর প্রযুক্ত আয়তন়তন পীড়ন $3.5 × 10^{10} Nm^{-2}$ এবং আয়তন়তন বিকৃতি 0.035 । সংনম্য তা কত?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$1 × 10^{-12} Nm^{2}$"
+      },
+      {
+        "id": "b",
+        "text": "$1 × 10^{11} Nm^{2}$"
+      },
+      {
+        "id": "c",
+        "text": "$1 × 10^{-12} m^{2}N^{-1}$"
+      },
+      {
+        "id": "d",
+        "text": "$1 × 10^{11} m^{2}N^{-1}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "C = 0.035 / ($3.5 * 10^{10}$) = $1 * 10^{-12} m^{2}$ $N^{-1}$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 27,
+    "questionText": "A ও B দুটি সমান দৈর্ঘ্যের তারে সমপরিমাণ বল প্রয়োগ করা হলো । এতে A তারটি B এর চে য়ে 2cm বেশি বৃদ্ধি পেল। এখন, A ও B তারের ব্যাসার্ধ যথাক্রমে 4cm ও 2cm হলে কোনটি সঠিক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "A বেশি স্থিতি স্থাপ"
+      },
+      {
+        "id": "b",
+        "text": "B বেশি স্থিতি স্থাপ"
+      },
+      {
+        "id": "c",
+        "text": "উভয়ে র স্থিতিস্থাপকতা সমান"
+      },
+      {
+        "id": "d",
+        "text": "স্থিতিস্থাপকতার তুলনা সম্ভব নয়"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "B বেশি স্থিতিস্থাপক\n",
+    "explanationImage": null
+  },
+  {
+    "id": 28,
+    "questionText": "স্থিতিস্থাপক বল কিসের সমানুপা তি ক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "সরণ"
+      },
+      {
+        "id": "b",
+        "text": "পীড়ন"
+      },
+      {
+        "id": "c",
+        "text": "আয়তন"
+      },
+      {
+        "id": "d",
+        "text": "স্থিতি স্থাপ"
+      },
+      {
+        "id": "a",
+        "text": "গুণাঙ্ক"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "সরণ\n",
+    "explanationImage": null
+  },
+  {
+    "id": 29,
+    "questionText": "স্থিতিস্থাপক ক্লা ন্তি র আবি ষ্কা রক কোন বি জ্ঞা নী ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "Hook"
+      },
+      {
+        "id": "b",
+        "text": "Young"
+      },
+      {
+        "id": "c",
+        "text": "Newton"
+      },
+      {
+        "id": "d",
+        "text": "Kelvin"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "Kelvin\n",
+    "explanationImage": null
+  },
+  {
+    "id": 30,
+    "questionText": "$1.5 \\times 10^{6} g$ ভরের একটি লিফট একটি ইস্পাতের তারের সাহায্যে ঝুলানো আছে । এটি ওঠার সময় সর্বোচ্চ ত্বরণ 1.2 $ms^{-2}$ এবং অসহ পীড়ন $3.0 \\times 10^{8} Nm^{-2}$ হলে তারের সর্বনিম্ন ব্যাসার্ধ কত ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$4.33 \\times 10^{-3} m$"
+      },
+      {
+        "id": "b",
+        "text": "$4.19 \\times 10^{-3} m$"
+      },
+      {
+        "id": "c",
+        "text": "$3.7 \\times 10^{-3} m$"
+      },
+      {
+        "id": "d",
+        "text": "কোনোটিই নয়"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "T = m(g+a) = $1.5*10^{3} $* (9.8+1.2) = $16.5 * 10^{3} N$. r = sqrt(T / (pi * stress)) = $4.184 * 10^{-3} m$ ≈ $4.19 * 10^{-3} m$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 31,
+    "questionText": "হুকের সূত্র নিম্নরূপঃ (স্থিতিস্থাপক সীমার মধ্যে )",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "পীড়ন =1/বিকৃতি"
+      },
+      {
+        "id": "b",
+        "text": "পীড়ন ∝ বিকৃতি"
+      },
+      {
+        "id": "c",
+        "text": "পীড়ন ∝ (বিকৃতি )^{2}"
+      },
+      {
+        "id": "d",
+        "text": "পীড়ন ∝ 1/(বিকৃতি )^{2}"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "পীড়ন ∝ বিকৃতি\n",
+    "explanationImage": null
+  },
+  {
+    "id": 32,
+    "questionText": "কি পরিমাণ বল প্রয়োগ করলে 1$cm^{2}$ প্রস্থচ্ছেদ বিশিষ্ট কোন লো হা র তার এর দৈর্ঘ্য আদি দৈর্ঘ্যের দ্বিগুণ হবে ? (Y=$2×10^{11} Nm^{2}$)",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$2.5×10^{11} N$"
+      },
+      {
+        "id": "b",
+        "text": "$2.5×10^{7} N$/$m^{2}$"
+      },
+      {
+        "id": "c",
+        "text": "$2.5×10^{3} N$"
+      },
+      {
+        "id": "d",
+        "text": "$2.0×10^{7} N$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "F = YA = $2 * 10^{11} $* $10^{-4} $= $2.0 * 10^{7} N$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 33,
+    "questionText": "If temperature increases, elastic modulus of steel-",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "Increases"
+      },
+      {
+        "id": "b",
+        "text": "Decreases"
+      },
+      {
+        "id": "c",
+        "text": "Remains unchanged"
+      },
+      {
+        "id": "d",
+        "text": "None"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "Decreases\n",
+    "explanationImage": null
+  },
+  {
+    "id": 34,
+    "questionText": "নিচের কোন সম্পর্কটি একক আয়তন়তনে র কৃতকা জে র জন্য সঠিক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "1/2 × ( পীড়ন )^{2} × Y"
+      },
+      {
+        "id": "b",
+        "text": "1/2 × ( বিকৃতি )^{2} × Y"
+      },
+      {
+        "id": "c",
+        "text": "1/2 × ( পীড়ন ) × Y"
+      },
+      {
+        "id": "d",
+        "text": "1/2 × ( বিকৃতি ) × $Y^{2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "1/2 × ( বিকৃতি )^{2} × Y\n",
+    "explanationImage": null
+  },
+  {
+    "id": 35,
+    "questionText": "2m দৈর্ঘ্য এবং 1$mm^{2}$ প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট তারে 20kg ভর ঝুলালে তারটি 1mm প্রসারিত হয়। তারটির পীড়ন কত?\nStress = F/A = (20 * 9.8) / $10^{-6} $= $1.96 * 10^{8} Nm^{-2}$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$1.96×10^{8} Nm^{-2}$"
+      },
+      {
+        "id": "b",
+        "text": "$2.0×10^{7} Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$1.96×10^{5} Nm^{-2}$"
+      },
+      {
+        "id": "d",
+        "text": "$1.96×10^{2} Nm^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 36,
+    "questionText": "1$mm^{2}$ প্রস্থচ্ছেদ বিশিষ্ট একটি ইস্পাতের তারে কত বল প্রয়়ো গ করলে এর দৈর্ঘ্য দ্বিগুণ হবে ? [Y = $2 × 10^{11} Nm^{-2}$]",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$2×10^{13} dynes$"
+      },
+      {
+        "id": "b",
+        "text": "$2×10^{12} dynes$"
+      },
+      {
+        "id": "c",
+        "text": "$2×10^{11} dynes$"
+      },
+      {
+        "id": "d",
+        "text": "$2×10^{10} dynes$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "F = YA = $2 * 10^{11} $* $10^{-6} $= $2 * 10^{5} N$ = $2 * 10^{10} dynes$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 37,
+    "questionText": "স্থিতিস্থাপক বল দ্বা রা কৃত কাজ সরণে র-",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "সমানুপা তি"
+      },
+      {
+        "id": "b",
+        "text": "ব্য স্তা নুপা তি"
+      },
+      {
+        "id": "c",
+        "text": "বর্গের সমানুপা তি"
+      },
+      {
+        "id": "d",
+        "text": "বর্গের ব্যস্তানুপাতিক"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "বর্গের সমানুপাতিক\n",
+    "explanationImage": null
+  },
+  {
+    "id": 38,
+    "questionText": "1 বর্গ সে .মি . প্রস্থচ্ছেদবিশিষ্ট একটি তারে কত বল প্রয়োগ করা হলে দৈর্ঘ্য বৃদ্ধি আদি দৈর্ঘ্যের সমান হবে ? [Y = $2 × 10^{11} N$/$m^{2}$]",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$2 × 10^{7} N$"
+      },
+      {
+        "id": "b",
+        "text": "$4 × 10^{7} N$"
+      },
+      {
+        "id": "c",
+        "text": "$2 × 10^{5} N$"
+      },
+      {
+        "id": "d",
+        "text": "$4 × 10^{5} N$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "F = YA = $2 * 10^{11} $* $10^{-4} $= $2 * 10^{7} N$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 39,
+    "questionText": "পীড়নের মাত্রা -",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$ML^{-1}$T^{-2}$$"
+      },
+      {
+        "id": "b",
+        "text": "$MLT^{-1}$"
+      },
+      {
+        "id": "c",
+        "text": "$ML^{2}$T^{-2}$$"
+      },
+      {
+        "id": "d",
+        "text": "MLT"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "$ML^{-1}$T^{-2}$\n$",
+    "explanationImage": null
+  },
+  {
+    "id": 40,
+    "questionText": "1 বর্গ সে মি . প্রস্থচ্ছেদ বিশিষ্ট একটি তারে কত বল প্রয়োগ করা হলে এর দৈর্ঘ্য বৃদ্ধি আদি দৈর্ঘ্যের সমান হবে ? [Y = $2 × 10^{11} Nm^{-2}$]",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$2 × 10^{11} N$"
+      },
+      {
+        "id": "b",
+        "text": "$2 × 10^{8} N$"
+      },
+      {
+        "id": "c",
+        "text": "$2 × 10^{8} Nm$"
+      },
+      {
+        "id": "d",
+        "text": "$2 × 10^{7} N$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "F = YA = $2 * 10^{11} $* $10^{-4} $= $2 * 10^{7} N$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 41,
+    "questionText": "0.5$mm^{2}$ প্রস্থছে দে র ক্ষেত্রফলবিশিষ্ট তারে 10 kg ভর ঝুলালে তারটির পীড়ন-\nStress = (10 * 9.8) / ($0.5 * 10^{-6}$) = $1.96 * 10^{8} Nm^{-2}$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "19.6 $Nm^{-2}$"
+      },
+      {
+        "id": "b",
+        "text": "$1.96 × 10^{5} Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$1.96 × 10^{8} Nm^{-2}$"
+      },
+      {
+        "id": "d",
+        "text": "$1.96 × 10^{10} Nm^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 42,
+    "questionText": "একটি রড শতকরা 2 ভা গ বিকৃতিতে ভে ঙ্গে যা য়। $10^{4} N$ বল সহ্য করতে হলেরডে র ন্যূ নতম প্রস্থচ্ছেদের ক্ষেত্রফল কত হতে হবে ? (Y = $7 \\times 10^{9} Nm^{-2}$)\nA = F / (Y * strain) = $10^{4} $/ ($7 * 10^{9} $* 0.02) = $7.14 * 10^{-5} m^{2}$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$7.14 × 10^{-5} m^{2}$"
+      },
+      {
+        "id": "b",
+        "text": "$10^{-3} m^{2}$"
+      },
+      {
+        "id": "c",
+        "text": "$10^{-2} m^{2}$"
+      },
+      {
+        "id": "d",
+        "text": "$1.4 × 10^{-2} m^{2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 43,
+    "questionText": "আয়তন গুনা ঙ্কে র বিপরীত রাশি কে কি বলে ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "সং কো চনশী লতা"
+      },
+      {
+        "id": "b",
+        "text": "সংনম্য তা"
+      },
+      {
+        "id": "c",
+        "text": "অসংনম্য তা"
+      },
+      {
+        "id": "d",
+        "text": "দৃঢ়তা"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "সংনম্যতা\n",
+    "explanationImage": null
+  },
+  {
+    "id": 44,
+    "questionText": "স্থিতিস্থাপক সীমার মধ্যে দৈর্ঘ্য প্রসা রণ (l) বনাম ভর (M) এর সঠিক লেখচিত্র কোনটি?\nStraight line through origin. (Graph with straight line from origin)",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "c",
+        "text": "ঘ",
+        "image": "data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M%2010%2090%20L%2010%2010%20M%2010%2090%20L%2090%2090%22%20stroke%3D%22black%22%20stroke-width%3D%222%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M%2010%2090%20L%2080%2020%22%20stroke%3D%22black%22%20stroke-width%3D%222%22%20fill%3D%22none%22%2F%3E%3C%2Fsvg%3E"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 45,
+    "questionText": "2m দৈর্ঘ্য এবং 1$mm^{2}$ গ্রন্থচ্ছে দে র ক্ষেত্রফলবিশিষ্ট তারে 20kg ভর কপা লে ভা রটি 1mm প্রসারিত হয়। তারটির পীড়ন কত?\nStress = (20 * 9.8) / $10^{-6} $= $1.96 * 10^{8} Nm^{-2}$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$1.96 × 10^{2} Nm^{-2}$"
+      },
+      {
+        "id": "b",
+        "text": "$1.96 × 10^{5} Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$2 × 10^{7} Nm^{-2}$"
+      },
+      {
+        "id": "d",
+        "text": "$1.96 × 10^{8} Nm^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 46,
+    "questionText": "8 $mm^{2}$ প্রস্থচ্ছেদের তারে কত বল প্রয়োগ করা হলে দৈর্ঘ্য বৃদ্ধি পে য়ে আদি দৈর্ঘ্যের দ্বিগুণ হবে ? [Y = $2 × 10^{11} Nm^{-2}$]",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$8 × 10^{5} N$"
+      },
+      {
+        "id": "b",
+        "text": "$1.6 × 10^{6} N$"
+      },
+      {
+        "id": "c",
+        "text": "$2.6 × 10^{6} N$"
+      },
+      {
+        "id": "d",
+        "text": "$3.2 × 10^{6} N$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "F = YA = $2 * 10^{11} $* $8 * 10^{-6} $= $1.6 * 10^{6} N$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 47,
+    "questionText": "৩টি সমী করণ হলো ( এখা নে সং কে তগুলো প্রচলি ত অর্থ বহন করে ) 1. Y = MgL / π$r^{2}$l 2. F = 6πrηv 3. v=2$r^{2}$ (ρs - ρf)g / 9η. নিচের কোনটি সঠিক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "i ও iii"
+      },
+      {
+        "id": "b",
+        "text": "i ও ii"
+      },
+      {
+        "id": "c",
+        "text": "ii ও iii"
+      },
+      {
+        "id": "d",
+        "text": "i, ii ও iii"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "i, ii ও iii\n",
+    "explanationImage": null
+  },
+  {
+    "id": 48,
+    "questionText": "What is the dimension of Young's Modulus?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$MLT^{2}$"
+      },
+      {
+        "id": "b",
+        "text": "$MLT^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$ML^{-1}$ $T^{-2}$"
+      },
+      {
+        "id": "d",
+        "text": "$ML^{-3}$ $T^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "$ML^{-1}$ $T^{-2}$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 49,
+    "questionText": "কোনো বস্তুর আয়তন়তন গুণাঙ্ক (K) এবং সংনম্য তার (C) মধ্যে সম্পর্ক কোনটি?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "C = 1/K"
+      },
+      {
+        "id": "b",
+        "text": "C = 3/2 KT"
+      },
+      {
+        "id": "c",
+        "text": "C = sqrt(2KT/m)"
+      },
+      {
+        "id": "d",
+        "text": "C/K = 1"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "C = 1/K\n",
+    "explanationImage": null
+  },
+  {
+    "id": 50,
+    "questionText": "যদি একটি তারকে কে টে সমান তি নভা গ করা হয় তবে অসহ পীড়ন হবে -",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "অর্ধে"
+      },
+      {
+        "id": "b",
+        "text": "এক-তৃতী য়াং শ"
+      },
+      {
+        "id": "c",
+        "text": "একই হবে"
+      },
+      {
+        "id": "d",
+        "text": "তি নগুণ"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "একই হবে\n",
+    "explanationImage": null
+  },
+  {
+    "id": 51,
+    "questionText": "কোনো তারের কৃন্তন্তন গুণাঙ্ক $7 × 10^{11} dyne$/$cm^{2}$ এবং পয়সনের অনুপাত 0.5 । তারটির ইয়ং এর গুণাঙ্ক কত হবে ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "0"
+      },
+      {
+        "id": "b",
+        "text": "$2.1 × 10^{12} Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$2.1 × 10^{12} dyne$/$cm^{2}$"
+      },
+      {
+        "id": "d",
+        "text": "b ও c উভয়ই"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "Y = 2n(1+σ) = 2 * $7*10^{11} $* 1.5 = $2.1 * 10^{12} dyne$/$cm^{2}$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 52,
+    "questionText": "100N বল প্রয়োগ করলে একটি তার ছিঁ ড়ে যে তে পা রে । একই উপা দানের একই দৈর্ঘ্যের কি ন্তু দ্বিগুণ ব্যাসার্ধের একটি তারকে ছিঁ ড়তে কতটুকু বল প্রয়োজন?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "50N"
+      },
+      {
+        "id": "b",
+        "text": "400N"
+      },
+      {
+        "id": "c",
+        "text": "200N"
+      },
+      {
+        "id": "d",
+        "text": "100N"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "F2 = F1 * (r2/r1)^{2} = 100 * 4 = 400N\n",
+    "explanationImage": null
+  },
+  {
+    "id": 53,
+    "questionText": "2m দৈর্ঘ্য এবং 1$mm^{2}$ প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট তারে 20kg ভর ঝুলালে তারটি 1mm প্রসারিত হয়। উক্ত তারটির- 1. দৈর্ঘ্য বিকৃতি $0.5×10^{-3} 2$. ইয়ং এর গুণাঙ্ক $3.92×10^{11} Nm^{-2}$ 3. কৃতকাজে র পরি মান 0.098J. নিচের কোনটি সঠিক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "i,ii"
+      },
+      {
+        "id": "b",
+        "text": "i,iii"
+      },
+      {
+        "id": "c",
+        "text": "ii,iii"
+      },
+      {
+        "id": "d",
+        "text": "i,ii,iii"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "i,ii,iii\n",
+    "explanationImage": null
+  },
+  {
+    "id": 54,
+    "questionText": "সংনম্য তার একক কী ?\n$N^{-1}$ $m^{2}$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$N^{-1}$ $m^{2}$"
+      },
+      {
+        "id": "b",
+        "text": "$N^{-1}$"
+      },
+      {
+        "id": "c",
+        "text": "Pa"
+      },
+      {
+        "id": "d",
+        "text": "N $m^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 55,
+    "questionText": "SI এককে পীড়নে র একক কোনটি?\n$Nm^{-2}$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "N.m"
+      },
+      {
+        "id": "b",
+        "text": "$Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$Nm^{-1}$"
+      },
+      {
+        "id": "d",
+        "text": "$Nm^{-3}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 56,
+    "questionText": "একটি তারে 0.01 দৈর্ঘ্য বিকৃতিতে পার্শ্ব বিকৃতি 0.0024 হলো । দৈর্ঘ্য বিকৃতি বনাম পা শ বিকৃতির লেখচিত্রের প্রকৃতি কোনটি?\nStraight line from origin.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "c",
+        "text": "ঘ",
+        "image": "data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M%2010%2090%20L%2010%2010%20M%2010%2090%20L%2090%2090%22%20stroke%3D%22black%22%20stroke-width%3D%222%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M%2010%2090%20L%2080%2020%22%20stroke%3D%22black%22%20stroke-width%3D%222%22%20fill%3D%22none%22%2F%3E%3C%2Fsvg%3E"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  },
+  {
+    "id": 57,
+    "questionText": "একটি তারের দৈর্ঘ্য বরাবর বল প্রয়োগ করা হলে এর দৈর্ঘ্য 1 m হতে 1.02 m হয় এবং ব্যাস 5mm হতে 4.99mm হয়। পয়সনের অনুপাত কত?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "0.01"
+      },
+      {
+        "id": "b",
+        "text": "0.1"
+      },
+      {
+        "id": "c",
+        "text": "1"
+      },
+      {
+        "id": "d",
+        "text": "10"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "σ = (0.01/5) / (0.02/1) = 0.002 / 0.02 = 0.1\n",
+    "explanationImage": null
+  },
+  {
+    "id": 58,
+    "questionText": "কোনটিকে কখনও কখনও অসংনম্য তা বলা হয়?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "কাঠি ন্যে র গুণাঙ্"
+      },
+      {
+        "id": "b",
+        "text": "স্থিতি স্থাপ"
+      },
+      {
+        "id": "a",
+        "text": "গুণাঙ্"
+      },
+      {
+        "id": "c",
+        "text": "পীড়ন"
+      },
+      {
+        "id": "d",
+        "text": "আয়তন গুণাঙ্ক"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "আয়তন গুণাঙ্ক\n",
+    "explanationImage": null
+  },
+  {
+    "id": 59,
+    "questionText": "তা ত্ত্বি কভা বে পয়সনের অনুপাতের সীমা কোনটি?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "−0.5 ≤ σ ≤ 1"
+      },
+      {
+        "id": "b",
+        "text": "−1 ≤ σ ≤ 0.5"
+      },
+      {
+        "id": "c",
+        "text": "0.5 ≤ σ ≤ 1"
+      },
+      {
+        "id": "d",
+        "text": "0 ≤ σ ≤ 0.5"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "−1 ≤ σ ≤ 0.5\n",
+    "explanationImage": null
+  },
+  {
+    "id": 60,
+    "questionText": "পয়সনের অনুপাতের ক্ষেত্রে 1. σ=(-L0 Δr ) / (r ΔL) 2. পয়সনের অনুপাতের মান -1 থেকে 1/2 এর মধ্যে 3. পয়সনের অনুপাতের কোনো মাত্রা বা একক নেই. নিচের কোনটি সঠিক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "i"
+      },
+      {
+        "id": "b",
+        "text": "i,ii"
+      },
+      {
+        "id": "c",
+        "text": "ii,iii"
+      },
+      {
+        "id": "d",
+        "text": "i,ii,iii"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "i,ii,iii\n",
+    "explanationImage": null
+  },
+  {
+    "id": 61,
+    "questionText": "হুকের সূত্র দে ওয়া হয়ে ছি ল কতসা লে ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "1578"
+      },
+      {
+        "id": "b",
+        "text": "1678"
+      },
+      {
+        "id": "c",
+        "text": "1878"
+      },
+      {
+        "id": "d",
+        "text": "1648"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "1678\n",
+    "explanationImage": null
+  },
+  {
+    "id": 62,
+    "questionText": "সং নমনতা এর ক্ষেত্রে - i. চা রদি ক থেকে সমান চাপ প্রয়োগে আয়তন কমে যা য় ii. পদার্থের অণুসমূহে র মধ্যে ফাঁ ক থা কে iii. আয়তনে র স্থিতিস্থাপক গুণাঙ্কের বিপরীত রাশি. নিচের কোনটি সঠিক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "i ও ii"
+      },
+      {
+        "id": "b",
+        "text": "i ও iii"
+      },
+      {
+        "id": "c",
+        "text": "ii ও iii"
+      },
+      {
+        "id": "d",
+        "text": "i, ii ও iii"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "i, ii ও iii\n",
+    "explanationImage": null
+  },
+  {
+    "id": 63,
+    "questionText": "$10^{-6} m^{2}$ প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট তারের ওপর $2 × 10^{4} N$ বল প্রয়োগ করা হলে - i. পীড়ন এর মান $2 × 10^{10} Nm^{-2}$ ii. একক বিকৃতির জন্য পীড়নই এর গুণাঙ্ক iii.পীড়ন দ্বিগুণ করলে এর গুণাঙ্ক দ্বিগুণ হবে. নিচের কোনটি সঠিক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "i ও ii"
+      },
+      {
+        "id": "b",
+        "text": "i ও iii"
+      },
+      {
+        "id": "c",
+        "text": "ii ও iii"
+      },
+      {
+        "id": "d",
+        "text": "i, ii ও iii"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "i ও ii\n",
+    "explanationImage": null
+  },
+  {
+    "id": 64,
+    "questionText": "একটি তারের উপা দানের দৃঢ়তা গুণাঙ্ক $2.1 \\times 10^{11} Nm^{-2}$ এবং পয়সনের অনুপাত 0.38 হলে তারের ইয়ং গুণাঙ্ক কত?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$4.77 \\times 10^{12} Nm^{-2}$"
+      },
+      {
+        "id": "b",
+        "text": "$5.6 \\times 10^{-12} Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$5.796 \\times 10^{11} Nm^{-2}$"
+      },
+      {
+        "id": "d",
+        "text": "$5.5 \\times 10^{9} Nm^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "Y = 2n(1+σ) = 2 * $2.1*10^{11} $* 1.38 = $5.796 * 10^{11} Nm^{-2}$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 65,
+    "questionText": "সমান দৈর্ঘ্যের তিনটি তার A, B ও C এ একই মানের পীড়ন $5 × 10^{12} Nm^{-2}$ প্রয়োগের ফলে দৈর্ঘ্য বৃদ্ধি যথাক্রমে 5%, 2% এবং 1% হলো । B তারের বিকৃতি কত?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "0.2"
+      },
+      {
+        "id": "c",
+        "text": "0.02"
+      },
+      {
+        "id": "d",
+        "text": "0.002"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "0.02\n",
+    "explanationImage": null
+  },
+  {
+    "id": 66,
+    "questionText": "তারের দৈর্ঘ্য বরাবর বল প্রয়োগে ব্যাস 1% হ্রাস ও দৈর্ঘ্য 5% বৃদ্ধি পা য়। পয়সনের অনুপাত কত?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "0.2"
+      },
+      {
+        "id": "b",
+        "text": "0.3"
+      },
+      {
+        "id": "c",
+        "text": "0.1"
+      },
+      {
+        "id": "d",
+        "text": "0.4"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "σ = 1 / 5 = 0.2\n",
+    "explanationImage": null
+  },
+  {
+    "id": 67,
+    "questionText": "D ব্যাস ও দৈর্ঘ্যের একটি তার এক প্রান্তে দৃঢ়ভা বে আটকানো আছে । তারটির নিচের প্রান্তে একটি ভর ঝুলানো হলে এর দৈর্ঘ্য পরিমাণ বৃদ্ধি পেল। X, L এর অর্ধেক। একই উপা দানের 2D ব্যাস এবং 3L দৈর্ঘ্যের অপর একটি তারে সমপরিমাণ ভর ঝুলালে - i. পয়সনের অনুপাত অপরি বর্তি ত থা কবে ii. দৈর্ঘ্য বৃদ্ধি পাবে 3x/4 iii. পীড়নের পরিবর্তন হবে. নিচের কোনটি সঠিক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "i ও ii"
+      },
+      {
+        "id": "b",
+        "text": "ii ও iii"
+      },
+      {
+        "id": "c",
+        "text": "i ও iii"
+      },
+      {
+        "id": "d",
+        "text": "i, ii ও iii"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "i, ii ও iii\n",
+    "explanationImage": null
+  },
+  {
+    "id": 68,
+    "questionText": "Y স্থিতিস্থাপক গুণাঙ্কের কোনো তারে P পীড়ন প্রয়োগে একক আয়তন়তনে সঞ্চি ত স্থিতি শক্তি কত হবে ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "P / 2$Y^{2}$"
+      },
+      {
+        "id": "b",
+        "text": "1/2 $P^{2}$ Y"
+      },
+      {
+        "id": "c",
+        "text": "1/2 PY"
+      },
+      {
+        "id": "d",
+        "text": "$P^{2}$ / 2Y"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "$P^{2}$ / 2Y\n",
+    "explanationImage": null
+  },
+  {
+    "id": 69,
+    "questionText": "নিচের কোনটি পীড়নের একক নয় -",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$Nm^{-2}$"
+      },
+      {
+        "id": "b",
+        "text": "Pa"
+      },
+      {
+        "id": "c",
+        "text": "dyn/$Cm^{2}$"
+      },
+      {
+        "id": "d",
+        "text": "$Nm^{-1}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "$Nm^{-1}$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 70,
+    "questionText": "2m দৈর্ঘ্য এবং 1$mm^{2}$ প্রস্থচ্ছেদের ক্ষেত্রফল বিশিষ্ট তারে 20kg ভর ঝুলালে তারটি 1mm প্রসারিত হয় । তারটির ওপর পীড়ন কত?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$1.96 × 10^{8} Nm^{-2}$"
+      },
+      {
+        "id": "b",
+        "text": "$2 × 10^{7} Nm^{-2}$"
+      },
+      {
+        "id": "c",
+        "text": "$1.96 × 10^{5} Nm^{-2}$"
+      },
+      {
+        "id": "d",
+        "text": "$2 × 10^{9} Nm^{-2}$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "$1.96 × 10^{8} Nm^{-2}$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 71,
+    "questionText": "পয়সনের অনুপাত i. দৈর্ঘ্য বিকৃতি ও পার্শ্ব বিকৃতির অনুপাত ii. কোনো একক নেই iii. এর মান -1 থেকে 0.5 পর্যন্ত. নিচের কোনটি সঠিক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "i ও ii"
+      },
+      {
+        "id": "b",
+        "text": "ii ও iii"
+      },
+      {
+        "id": "c",
+        "text": "i ও iii"
+      },
+      {
+        "id": "d",
+        "text": "i, ii ও iii"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "ii ও iii\n",
+    "explanationImage": null
+  },
+  {
+    "id": 72,
+    "questionText": "30 cm দীর্ঘ, $31×10^{-2} cm^{2}$ প্রস্থচ্ছেদবিশিষ্ট একটি তারের ইয়ং - এর গুণাঙ্ক $1.5×10^{11} Nm^{-2}$ । একে টে নে 0.1 cm বৃদ্ধি করতে হলে কতটুকু কাজ সম্পন্ন হবে ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "7.75 J"
+      },
+      {
+        "id": "b",
+        "text": "0.2 J"
+      },
+      {
+        "id": "c",
+        "text": "0.15 J"
+      },
+      {
+        "id": "d",
+        "text": "0.22 J"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "W = (Y A $l^{2}$) / 2L = 7.75 J\n",
+    "explanationImage": null
+  },
+  {
+    "id": 73,
+    "questionText": "পয়সনের অনুপাত σ -এর ক্ষেত্রে নিচের কোনটি সঠিক?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "1 < σ < 0.5"
+      },
+      {
+        "id": "b",
+        "text": "−1 < σ < 0.5"
+      },
+      {
+        "id": "c",
+        "text": "−1 < σ < 1"
+      },
+      {
+        "id": "d",
+        "text": "−1 < 0 < −0.5"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "−1 < σ < 0.5\n",
+    "explanationImage": null
+  },
+  {
+    "id": 74,
+    "questionText": "$2 × 10^{7} Nm^{-2}$ ইয়ং এর গুণাঙ্ক বিশিষ্ট 1$cm^{2}$ প্রস্থচ্ছেদ বিশিষ্ট 2m দৈর্ঘ্যেরে একটি তারে 10 kg ভর ঝুলালে তারটির মো ট দৈর্ঘ্য কত হবে ? [g = 10 $ms^{-2}$]",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "2.12 m"
+      },
+      {
+        "id": "b",
+        "text": "3 m"
+      },
+      {
+        "id": "c",
+        "text": "2.1 m"
+      },
+      {
+        "id": "d",
+        "text": "2.01 m"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "2.1 m\n",
+    "explanationImage": null
+  },
+  {
+    "id": 75,
+    "questionText": "রা বা র কি ধরণে র বস্তু?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "পূর্ণ স্থিতি স্থাপ"
+      },
+      {
+        "id": "b",
+        "text": "পূর্ণ দৃঢ়"
+      },
+      {
+        "id": "c",
+        "text": "নমনীয়"
+      },
+      {
+        "id": "d",
+        "text": "অনমনীয়"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "নমনীয়\n",
+    "explanationImage": null
+  },
+  {
+    "id": 76,
+    "questionText": "1 $cm^{2}$ প্রস্থচ্ছেদবিশিষ্ট তা মা র তারকে টে নে দ্বি গুন লম্বা করতে কত বলের প্রয়ো জন হবে ? [Y=$2 × 10^{11} Nm^{-2}$]",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "$10^{7} N$"
+      },
+      {
+        "id": "b",
+        "text": "$3 × 10^{7} N$"
+      },
+      {
+        "id": "c",
+        "text": "$4 × 10^{7} N$"
+      },
+      {
+        "id": "d",
+        "text": "$2 × 10^{7} N$"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "F = YA = $2 * 10^{11} $* $10^{-4} $= $2 * 10^{7} N$\n",
+    "explanationImage": null
+  },
+  {
+    "id": 77,
+    "questionText": "স্থিতিস্থাপক গুণাঙ্কের মাত্রা কোনটি?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "[$MT^{-2}$]"
+      },
+      {
+        "id": "b",
+        "text": "[$ML^{-1}$T^{2}$]$"
+      },
+      {
+        "id": "c",
+        "text": "[$ML^{-1}$T^{-2}$]$"
+      },
+      {
+        "id": "d",
+        "text": "[$MLT^{-2}$]"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "[$ML^{-1}$T^{-2}$]\n$",
+    "explanationImage": null
+  },
+  {
+    "id": 78,
+    "questionText": "কোনো তরলের অসহ পীড়ন নির্ভর করে তারের-",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "ব্যাসার্ধের ওপর"
+      },
+      {
+        "id": "b",
+        "text": "দৈ র্ঘে র ওপর"
+      },
+      {
+        "id": "c",
+        "text": "প্রস্থচ্ছেদের আকৃতির ওপর"
+      },
+      {
+        "id": "d",
+        "text": "উপা দানের ওপর"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "উপা দানের ওপর\n",
+    "explanationImage": null
+  },
+  {
+    "id": 79,
+    "questionText": "ইয়ং এর গুণাঙ্ক নিচের কোনটি?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "Y=দৈর্ঘ্য পীড়ন/দৈর্ঘ্য বিকৃতি"
+      },
+      {
+        "id": "b",
+        "text": "Y=আয়তন পীড়ন/আয়তন বিকৃতি"
+      },
+      {
+        "id": "c",
+        "text": "Y=কৃন্তন্তন পীড়ন/কৃন্তন্তন বিকৃতি"
+      },
+      {
+        "id": "d",
+        "text": "Y=কৃন্তন্তন পীড়ন/দৈর্ঘ্য বিকৃতি"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "Y=দৈর্ঘ্য পীড়ন/দৈর্ঘ্য বিকৃতি\n",
+    "explanationImage": null
+  },
+  {
+    "id": 80,
+    "questionText": "হুকের সূত্র নিম্নরূপ: [স্থিতিস্থাপক সীমার মধ্যে ]\nপীড়ন ∝ বিকৃতি",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "a",
+        "text": "পীড়ন ∝ 1/বিকৃতি"
+      },
+      {
+        "id": "b",
+        "text": "পীড়ন ∝ বিকৃতি"
+      },
+      {
+        "id": "c",
+        "text": "পীড়ন ∝ (বিকৃতি )^{2}"
+      },
+      {
+        "id": "d",
+        "text": "পীড়ন ∝ 1/(বিকৃতি )^{2}"
+      }
+    ],
+    "correctOptionId": "a",
+    "explanationText": "",
+    "explanationImage": null
+  }
+]
