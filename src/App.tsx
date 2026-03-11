@@ -3,7 +3,7 @@ import { LandingScreen } from "./components/LandingScreen";
 import { ExamScreen } from "./components/ExamScreen";
 import { ResultScreen } from "./components/ResultScreen";
 import { ScreenState, ExamState, Question } from "./types";
-import { createClient } from "@libsql/client";
+import { createClient } from "@libsql/client/web";
 
 const dbUrl = import.meta.env.VITE_TURSO_DATABASE_URL;
 const dbAuthToken = import.meta.env.VITE_TURSO_AUTH_TOKEN;
